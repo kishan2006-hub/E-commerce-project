@@ -1,0 +1,69 @@
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"kp08866@gmail.com\",\"password\":\"9090\",\"name\":\"kishan\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/product/rate - {\"productID\":\"68f0d7280217e3995774bb27\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/product/rate - {\"productID\":\"68f0d7280217e3995774bb27\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/product - undefined","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=Product - {\"authorId\":\"6905d6497a22de82e6983938\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=Product - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=Product - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=Product - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/ - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/ - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/ - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/ - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=Product - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like/?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/cart/ - {\"productID\":\"68f0d7280217e3995774bb27\",\"quantity\":\"5\"}","service":"request-logging"}
+{"level":"info","message":"/api/cart/ - {\"productID\":\"68f0d7280217e3995774bb27\",\"quantity\":\"5\"}","service":"request-logging"}
+{"level":"info","message":"/api/cart/ - {\"productID\":\"68f0d7280217e3995774bb27\",\"quantity\":\"5\"}","service":"request-logging"}
+{"level":"info","message":"/api/cart/ - {\"productID\":\"68f0d7280217e3995774bb27\",\"quantity\":5}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like?id=68f0d7280217e3995774bb27&type=products - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/like - {\"id\":\"68f0d7280217e3995774bb27\",\"type\":\"products\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"2025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"20252025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"202520252\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"abc@123#\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"abc@#/123\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025..\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025&..\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Kishan Prajapati\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025&..\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"chavda Smit@2025&..\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"chavda Smit\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"chavda Smit\",\"email\":\"abc@gmail.com\",\"password\":\"Smit@2025\",\"type\":\"buyer\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"kishan\",\"email\":\"kp0993325@gmail.com\",\"password\":\"Smit@2025\",\"type\":\"buyer\"}","service":"request-logging"}
